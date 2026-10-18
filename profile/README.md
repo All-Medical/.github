@@ -30,7 +30,7 @@ Concebida por médicos com formação executiva em finanças, executada por espe
 | Nome | Função |
 |---|---|
 | **Allan Freitas** ([@drallanfreitas](https://github.com/drallanfreitas)) | CEO |
-| **Hélio Pinheiro** ([@heliowap](https://github.com/heliowap)) | CTO |
+| **Helio Pinheiro** ([@heliowap](https://github.com/heliowap)) | CTO |
 | **Ellen Stuker** | Diretora de Relacionamento Médico |
 | **Natalia Pavone** | Conselheira Estratégica |
 | **Dra. Amanda Castro** | Embaixadora AllMedical |
